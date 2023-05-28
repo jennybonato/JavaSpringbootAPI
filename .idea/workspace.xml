@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4b752429-1696-48b3-8965-d5428671e01e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/catalog/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/catalog/HELP.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/catalog/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/catalog/build/classes/java/main/com/jennybonato/catalog/CatalogApplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/catalog/build/classes/java/main/com/jennybonato/catalog/controller/CategoryController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/catalog/build/classes/java/main/com/jennybonato/catalog/dao/CategoryDAO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/catalog/build/classes/java/main/com/jennybonato/catalog/dao/CategoryDAOImplementation.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/catalog/build/classes/java/main/com/jennybonato/catalog/model/Category.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/catalog/build/classes/java/main/com/jennybonato/catalog/model/Item.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/catalog/build/classes/java/main/com/jennybonato/catalog/service/CategoryService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/catalog/build/classes/java/main/com/jennybonato/catalog/service/CategoryServiceImplementation.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/catalog/build/classes/java/test/com/jennybonato/catalog/CatalogApplicationTests.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/catalog/build/resolvedMainClassName" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/catalog/build/resources/main/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/catalog/build/tmp/compileJava/compileTransaction/stash-dir/CategoryDAOImplementation.class.uniqueId0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/catalog/build/tmp/compileJava/previous-compilation-data.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/catalog/build/tmp/compileTestJava/previous-compilation-data.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/catalog/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/catalog/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/catalog/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/catalog/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/catalog/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/catalog/src/main/java/com/jennybonato/catalog/CatalogApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/catalog/src/main/java/com/jennybonato/catalog/controller/CategoryController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/catalog/src/main/java/com/jennybonato/catalog/controller/ItemController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/catalog/src/main/java/com/jennybonato/catalog/dao/CategoryDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/catalog/src/main/java/com/jennybonato/catalog/dao/CategoryDAOImplementation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/catalog/src/main/java/com/jennybonato/catalog/dao/ItemDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/catalog/src/main/java/com/jennybonato/catalog/dao/ItemDAOImplementation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/catalog/src/main/java/com/jennybonato/catalog/model/Category.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/catalog/src/main/java/com/jennybonato/catalog/model/Item.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/catalog/src/main/java/com/jennybonato/catalog/service/CategoryService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/catalog/src/main/java/com/jennybonato/catalog/service/CategoryServiceImplementation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/catalog/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/catalog/src/test/java/com/jennybonato/catalog/CatalogApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/catalog/world.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2QNiOKsOfs7e6bD7fdvom3DL7sK" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "/home/jbonato/Documents/JavaSpringbootAPI"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4b752429-1696-48b3-8965-d5428671e01e" name="Changes" comment="" />
+      <created>1685200406389</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1685200406389</updated>
+    </task>
+    <servers />
+  </component>
+</project>
